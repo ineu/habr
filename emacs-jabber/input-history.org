@@ -75,8 +75,8 @@
 * Конец
 Текст подготовлен в emacs с использованием org-mode и экспорта в docbook (С-c C-e D).
 * Ссылки
-Лиспокод
+[[https://github.com/ineu/habr/blob/master/emacs-jabber/input-history.el][Лиспокод]]
 
-Исходник этой статьи
+[[https://raw.github.com/ineu/habr/master/emacs-jabber/input-history.org][Исходник этой статьи]]
 
-XSLT для преобразования докбукового XML в понятный хабру формат.
+[[https://github.com/ineu/habr/blob/master/org.xsl][XSLT для преобразования докбукового XML в понятный хабру формат.]]
